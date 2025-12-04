@@ -13,3 +13,4 @@ Open-Source desktop GUI implementation of BomberBot
 
 Следите за обновлениями — релиз появится здесь 👇  
 ➡ https://github.com/aocoac/BomberBot/releases
+your tele gone contact me @bulldogs_Ceo
